@@ -1,3 +1,4 @@
+
 class Solution {
     public int[] sortedSquares(int[] nums) {
         for(int i=0;i<nums.length;i++)
@@ -7,4 +8,3 @@ class Solution {
         Arrays.sort(nums);
         return nums;
     }
-}

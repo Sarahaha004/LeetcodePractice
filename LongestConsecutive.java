@@ -1,3 +1,4 @@
+
 class Solution {
     public int longestConsecutive(int[] nums) {
         if (nums == null || nums.length == 0) {
@@ -27,4 +28,5 @@ class Solution {
         return Math.max(longestStreak, currentStreak);
     }
 }
+
 
