@@ -1,5 +1,5 @@
 /**
- * Find if Cycle in Link List
+ * Find if Cycle in Link List 
  * Definition for singly-linked list.
  * class ListNode {
  *     int val;
@@ -31,3 +31,5 @@ public class Solution {
         return false;
     }
 }
+
+//Usedd Floyd hare and tortoise algorithm(cycle detection using 2 pointers)
