@@ -1,3 +1,4 @@
+/*Minimum common value of 2 arrays solution  */
 class Solution {
     public int getCommon(int[] nums1, int[] nums2) {
         Arrays.sort(nums2);
