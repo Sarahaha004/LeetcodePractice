@@ -1,5 +1,5 @@
-class Solution {
-    public int singleNumber(int[] nums) {
+class SingleNumber{
+    public int single(int[] nums) {
         
        HashSet<Integer>set= new HashSet<>();
        for(int num:nums){

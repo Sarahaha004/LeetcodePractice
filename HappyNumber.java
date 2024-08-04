@@ -1,5 +1,3 @@
-import java.util.*;
-public static
 class HappyNumber {
     public boolean isHappy(int n) {
         while (n != 1 && n != 4) {

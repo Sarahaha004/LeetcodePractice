@@ -1,6 +1,6 @@
 /*Sort array of 0,1,2 without using library function */
 /*Used count sort algorithm, count of each element and sorting*/
-class Solution {
+class SortColors {
     public void sortColors(int[] nums) {
         
         if(nums==null||nums.length==0){

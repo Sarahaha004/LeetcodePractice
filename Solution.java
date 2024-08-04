@@ -17,6 +17,7 @@ public class Solution {
             return false;
         }
         ListNode tort=head;
+
         ListNode hare=head.next;
 
         while(hare!=null && hare.next!=null)
